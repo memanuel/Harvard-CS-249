@@ -1,0 +1,16 @@
+Hi Everyone,
+
+I got a couple of questions about the paper presentations that I figure would be most helpful to answer in a public post, so here it goes!
+
+The idea behind the paper presentations (given the class size) is for your group of ~4 to work together in whatever manner is the easiest for your group to present the ~2 papers assigned to your day taking up the entire class period (of course make sure to leave plenty of time for questions!). You can split it into two groups of two each with half the class, or work as a team of four, or any other creative arrangement you all come up with. Since the two papers (often) are quite related, my gut would be that it will make the most sense to plan one presentation as a team which should also help with flow / time management as much of the background should be the same.
+
+We are expecting you cover the following items for each paper:
+1) Setup: What is the problem? Why is it important? What are the key challenges in solving it?
+2) Contribution: What did the author(s) do? Why was it novel?
+3) Context: How did it compare to other work? What work did this build on? What are the relative strengths and weaknesses?
+
+Since most people in the class are novices on the particular topic you will likely have to spend a decent amount of time on setup and context.
+
+We will require teams to meet with a member of the course staff (Myself, VJ, Shruti) at least two days but/and ideally a week before the presentation to make sure that your overall plan / topics you want to cover are sufficient and hit all of the key points. We also hope that we (the course staff) can be a resource to help you understand any particularly challenging parts of the papers and to help you design effective presentations. We will always be available during our standard office hours and can also meet outside of those times by appointment. But/and please try to plan meetings far enough in advance that we can make sure we are available!
+
+-Brian
